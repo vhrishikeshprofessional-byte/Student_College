@@ -212,3 +212,8 @@ Every protected endpoint requires a JWT access token. Expired or invalid access 
 - Passwords are stored only as bcrypt hashes.
 - The backend reloads the user from the database before every permission check and never trusts role data from the frontend.
 - The login route includes a TODO for production-grade brute-force protection.
+
+
+
+
+ git remote add origin https://github.com/vhrishikeshprofessional-byte/Student_College.git
