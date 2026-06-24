@@ -1,0 +1,15 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/vite-dev*.log
+
+backend/backend_smoke_test.db
+backend/local_preview.db
+backend/backend-api*.log
